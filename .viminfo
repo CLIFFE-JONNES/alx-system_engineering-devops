@@ -11,6 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1692784101,,"wq"
+:q
+|2,0,1692770784,,"q"
 :qa
 |2,0,1692661893,,"qa"
 
@@ -23,16 +27,276 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	n
+|3,1,36,0,1,0,1692770803,"n"
 
 # File marks:
-'0  1  0  ~/alx-pre_course/.git/COMMIT_EDITMSG
-|4,48,1,0,1692661893,"~/alx-pre_course/.git/COMMIT_EDITMSG"
+'0  2  25  ~/alx-pre_course/bash/school
+|4,48,2,25,1692784101,"~/alx-pre_course/bash/school"
+'1  1  10  ~/alx-pre_course/bash/alx
+|4,49,1,10,1692783909,"~/alx-pre_course/bash/alx"
+'2  2  12  ~/alx-pre_course/0x01-git/bash/school
+|4,50,2,12,1692783041,"~/alx-pre_course/0x01-git/bash/school"
+'3  2  9  ~/alx-pre_course/0x01-git/bash/alx
+|4,51,2,9,1692783002,"~/alx-pre_course/0x01-git/bash/alx"
+'4  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,52,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+'5  2  0  /alx-pre_course/0x01-git/bash/school
+|4,53,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+'6  1  0  /alx-pre_course/0x01-git/bash/school
+|4,54,1,0,1692770784,"/alx-pre_course/0x01-git/bash/school"
+'7  1  0  /alx-pre_course/0x01-git/bash/school
+|4,55,1,0,1692770784,"/alx-pre_course/0x01-git/bash/school"
+'8  1  0  ~/alx-pre_course/.git/COMMIT_EDITMSG
+|4,56,1,0,1692661893,"~/alx-pre_course/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
--'  1  0  ~/alx-pre_course/.git/COMMIT_EDITMSG
-|4,39,1,0,1692661893,"~/alx-pre_course/.git/COMMIT_EDITMSG"
+-'  2  25  ~/alx-pre_course/bash/school
+|4,39,2,25,1692784101,"~/alx-pre_course/bash/school"
+-'  1  0  ~/alx-pre_course/bash/school
+|4,39,1,0,1692784075,"~/alx-pre_course/bash/school"
+-'  1  10  ~/alx-pre_course/bash/alx
+|4,39,1,10,1692783909,"~/alx-pre_course/bash/alx"
+-'  1  10  ~/alx-pre_course/bash/alx
+|4,39,1,10,1692783909,"~/alx-pre_course/bash/alx"
+-'  2  12  ~/alx-pre_course/0x01-git/bash/school
+|4,39,2,12,1692783041,"~/alx-pre_course/0x01-git/bash/school"
+-'  2  12  ~/alx-pre_course/0x01-git/bash/school
+|4,39,2,12,1692783041,"~/alx-pre_course/0x01-git/bash/school"
+-'  2  12  ~/alx-pre_course/0x01-git/bash/school
+|4,39,2,12,1692783041,"~/alx-pre_course/0x01-git/bash/school"
+-'  2  12  ~/alx-pre_course/0x01-git/bash/school
+|4,39,2,12,1692783041,"~/alx-pre_course/0x01-git/bash/school"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692783021,"~/alx-pre_course/0x01-git/bash/school"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692783021,"~/alx-pre_course/0x01-git/bash/school"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692783021,"~/alx-pre_course/0x01-git/bash/school"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692783021,"~/alx-pre_course/0x01-git/bash/school"
+-'  2  9  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,9,1692783002,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  9  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,9,1692783002,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  9  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,9,1692783002,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  9  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,9,1692783002,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  9  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,9,1692783002,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  9  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,9,1692783002,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  9  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,9,1692783002,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  9  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,2,9,1692783002,"~/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692782973,"~/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692782973,"~/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692782973,"~/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692782973,"~/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692782973,"~/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692782973,"~/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692782973,"~/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  ~/alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692782973,"~/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,2,0,1692770873,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  1  0  /alx-pre_course/0x01-git/bash/alx
+|4,39,1,0,1692770852,"/alx-pre_course/0x01-git/bash/alx"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  2  0  /alx-pre_course/0x01-git/bash/school
+|4,39,2,0,1692770834,"/alx-pre_course/0x01-git/bash/school"
+-'  1  0  /alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692770792,"/alx-pre_course/0x01-git/bash/school"
+-'  1  0  /alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692770792,"/alx-pre_course/0x01-git/bash/school"
+-'  1  0  /alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692770792,"/alx-pre_course/0x01-git/bash/school"
+-'  1  0  /alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692770792,"/alx-pre_course/0x01-git/bash/school"
+-'  1  0  /alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692770792,"/alx-pre_course/0x01-git/bash/school"
+-'  1  0  /alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692770792,"/alx-pre_course/0x01-git/bash/school"
+-'  1  0  /alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692770792,"/alx-pre_course/0x01-git/bash/school"
+-'  1  0  /alx-pre_course/0x01-git/bash/school
+|4,39,1,0,1692770792,"/alx-pre_course/0x01-git/bash/school"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-pre_course/bash/school
+	*	1692784098	0
+	"	2	25
+	^	2	26
+	.	2	25
+	+	2	25
+
+> ~/alx-pre_course/bash/alx
+	*	1692783904	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+
+> ~/alx-pre_course/0x01-git/bash/school
+	*	1692783039	0
+	"	2	12
+	^	2	13
+	.	2	12
+	+	2	12
+
+> ~/alx-pre_course/0x01-git/bash/alx
+	*	1692782999	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
+
+> /alx-pre_course/0x01-git/bash/alx
+	*	1692770870	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
+
+> /alx-pre_course/0x01-git/bash/school
+	*	1692770828	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	1	11
+	+	2	0
 
 > ~/alx-pre_course/.git/COMMIT_EDITMSG
 	*	1692661889	0
